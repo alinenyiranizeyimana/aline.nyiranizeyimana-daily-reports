@@ -1,0 +1,84 @@
+    1  git --version
+    2  git config --global user.name "Aline NYIRANIZEYIMANA"
+    3  git config --global user.email "alineirembo@gmail.com"
+    4  git --list
+    5  git config --list
+    6  man git
+    7  git -- help
+    8  clear
+    9  git --v
+   10  git --version
+   11  man git 
+   12  help git
+   13  clear
+   14  git --version
+   15  man git
+   16  git help
+   17  git --help
+   18  git --help
+   19  git config user.name
+   20  git config user.email
+   21  git config --global user.email "aline.nyiranizeyimana@aims.ac.rw
+"
+   22  git config user.email
+   23  pwd
+   24  cd 
+   25  pwd
+   26  mkdir git_Simple_folder
+   27  cd git_Simple_folder
+   28  git init
+   29  ls -A .git
+   30  ls
+   31  ls -a
+   32  ls -a .git
+   33  cd .git
+   34  ls -a
+   35  nano description
+   36  nano description
+   37  git remote -v
+   38  tree
+   39  tree
+   40  tree -d
+   41  cd ..
+   42  tree -d
+   43  pacman -s tree
+   44  /c/Windows/System32/tree.com /f
+   45  git status
+   46  touch README.md
+   47  git status
+   48  git add README.md
+   49  git status
+   50  git commit -am "adding README.md to be tracted on my git repository"
+   51  git status
+   52  ls
+   53  ls -a 
+   54  nano README.md
+   55  git diff
+   56  git diff --stat
+   57  git diff HEAD -- README.md
+   58  git diff --cached
+   59  git add README.md
+   60  git diff
+   61  git diff --cached
+   62  git log
+   63  git log -p
+   64  git log -3
+   65  nano temp_notes
+   66  git add temp_notes
+   67  git reset temp_notes
+   68  git stattus
+   69  git status
+   70  nano README.md
+   71  git status
+   72  git checkout -- README.md
+   73  git status
+   74  nano README.md
+   75  nano READYOU.md
+   76  ls
+   77  cd .git
+   78  ls
+   79  cd ..
+   80  ls
+   81  ls -a
+   82  history
+   83  history > git_command.txt
